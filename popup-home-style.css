@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: 'Raleway', sans-serif;
+/* 	background-color: #81D4FA; */
+	max-width: 400px;
+	max-height: 500px
+}
+
+textarea{
+	resize: none;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+}
+/* .button{ */
+/* 	font-family: 'Raleway', sans-serif; */
+/* 	padding: 15px 32px; */
+/*     text-align: center; */
+/*     text-decoration: none; */
+/*     display: inline-block; */
+/*     font-size: 16px; */
+/*     border: none; */
+/* } */
+
+/* #viewBank, #hideBank{ */
+/* 	background-color: #2980B9; */
+/* 	color: white; */
+/* } */
+
+/* #viewBank:hover, #hideBank:hover{ */
+/* 	background-color: #1F618D; */
+/* } */
+
+/* #submit:hover{ */
+/* 	background-color: #FDFEFE; */
+/* } */
